@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="993e4900-18b5-4f93-8d09-901e97b9b6d3" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML/JavaScriptCalculator.html" afterPath="$PROJECT_DIR$/AllPost/JavaScriptCalculator.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML/LeakOfMicrosoftSFB2.html" afterPath="$PROJECT_DIR$/AllPost/LeakOfMicrosoftSFB2.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML/MWC2017.html" afterPath="$PROJECT_DIR$/AllPost/MWC2017.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML/OldPost.html" afterPath="$PROJECT_DIR$/OldPost.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML/iPhoneCaseRunsAndroid.html" afterPath="$PROJECT_DIR$/AllPost/iPhoneCaseRunsAndroid.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML/post.html" afterPath="$PROJECT_DIR$/post.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jqBootstrapValidation.js" afterPath="$PROJECT_DIR$/js/jqBootstrapValidation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/clean-blog.less" afterPath="$PROJECT_DIR$/less/clean-blog.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/jquery/jquery.js" afterPath="$PROJECT_DIR$/vendor/jquery/jquery.js" />
-    </list>
+    <list default="true" id="993e4900-18b5-4f93-8d09-901e97b9b6d3" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -296,12 +283,12 @@
       <workItem from="1489792543438" duration="530000" />
       <workItem from="1489808778816" duration="194000" />
       <workItem from="1489908900866" duration="200000" />
-      <workItem from="1489909259221" duration="883000" />
+      <workItem from="1489909259221" duration="1005000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10903000" />
+    <option name="totallyTimeSpent" value="11025000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="728" extended-state="6" />
