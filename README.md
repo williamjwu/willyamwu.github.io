@@ -13,5 +13,3 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-
-Derived from Copyright 2013-2016 [Blackrock Digital LLC](https://github.com/BlackrockDigital/startbootstrap-clean-blog/tree/gh-pages). Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-clean-blog/blob/gh-pages/LICENSE) license.
