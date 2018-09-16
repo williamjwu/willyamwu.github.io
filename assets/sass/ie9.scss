@@ -4,53 +4,112 @@
 @import 'libs/skel';
 
 /*
-	Identity by HTML5 UP
+	Forty by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* Basic */
+/* Spotlights */
 
-	body {
-		background-image:		url('../../images/bg.jpg');
-		background-repeat:		no-repeat;
-		background-size:		cover;
-		background-position:	bottom center;
-		background-attachment:	fixed;
+	.spotlights {
+		> section {
+			&:after {
+				content: '';
+				display: block;
+				clear: both;
+			}
 
-		&:after {
-			display: none;
-		}
-	}
+			> .image {
+				float: left;
+			}
 
-/* List */
-
-	ul {
-		&.icons {
-			li {
-				a {
-					&:before {
-						color: _palette(border);
-					}
-
-					&:hover {
-						&:before {
-							color: _palette(highlight);
-						}
-					}
-				}
+			> .content {
+				float: left;
 			}
 		}
 	}
 
-/* Wrapper */
+/* Tiles */
 
-	#wrapper {
-		text-align: center;
+	.tiles {
+		&:after {
+			content: '';
+			display: block;
+			clear: both;
+		}
+
+		article {
+			@include padding(8em, 4em);
+			float: left;
+			height: auto;
+			max-height: none;
+			min-height: 0;
+		}
 	}
 
-/* Main */
+/* Header */
 
-	#main {
-		display: inline-block;
+	#header {
+		.logo {
+			position: absolute;
+			top: 0;
+			left: 0;
+		}
+
+		nav {
+			position: absolute;
+			top: 0;
+			right: 0;
+		}
+	}
+
+/* Banner */
+
+	#banner {
+		@include padding(6em, 0, (1em, 0, 0, 0));
+		background-attachment: scroll;
+		height: auto;
+		max-height: none;
+		min-height: 0;
+
+		> .inner {
+			.content {
+				display: block;
+
+				> * {
+					margin-left: 0;
+					margin: 0 0 _size(element-margin) 0;
+				}
+			}
+		}
+
+		&.major {
+			height: auto;
+			max-height: none;
+			min-height: 0;
+		}
+	}
+
+/* Contact */
+
+	#contact {
+		&:after {
+			content: '';
+			display: block;
+			clear: both;
+		}
+
+		> .inner {
+			> * {
+				float: left;
+			}
+		}
+	}
+
+/* Menu */
+
+	#menu {
+		.inner {
+			margin: 0 auto;
+		}
 	}
