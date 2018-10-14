@@ -1,6 +1,9 @@
 ## My Website
 http://williamwu2049.com
 
+## Credits
+Thanks to Pathum Danthanarayana for his picture of a jelly fish. More info here: https://unsplash.com/@pathum_danthanarayana
+
 ## Copyright and License
 
 Copyright 2017 William Wu
