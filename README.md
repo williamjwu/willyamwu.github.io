@@ -2,7 +2,7 @@
 http://williamwu2049.com
 
 ## Credits
-Thanks to Pathum Danthanarayana for his picture of a jelly fish. More info here: https://unsplash.com/@pathum_danthanarayana
+Thanks to Pathum Danthanarayana for his picture of followers. More info here: https://unsplash.com/@pathum_danthanarayana
 
 ## Copyright and License
 
