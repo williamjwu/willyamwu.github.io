@@ -2,8 +2,8 @@
 http://williamwu2049.com
 
 ## Credits
-Thanks to Pathum Danthanarayana for his picture of followers. More info here: https://unsplash.com/@pathum_danthanarayana
-
+Thanks to Pathum Danthanarayana for his picture. More info here: https://unsplash.com/@pathum_danthanarayana
+Thanks to Antonio Dicaterina for his picture. More info here:https://unsplash.com/@antonio_dicaterina
 ## Copyright and License
 
 Copyright 2017 William Wu
